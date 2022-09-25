@@ -107,7 +107,7 @@ const USER_CONFIG = {
     {
       name: '宝宝',
       id: 'o_Hxg537JjiLDsaawlWyCkET0-G0',
-      useTemplateId: 'mAJQQfD22d8ADv8RHfMWOrL1VLDrrhmPOeq-ULYWzFI',
+      useTemplateId: '	FB3iaqaVIIiJswmX67FPmPGuT1QcFlfvboSoIF5POmg',
       province: '浙江',
       city: '宁波',
       horoscopeDate: '07-13',
@@ -126,7 +126,7 @@ const USER_CONFIG = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'mAJQQfD22d8ADv8RHfMWOrL1VLDrrhmPOeq-ULYWzFI',
+  CALLBACK_TEMPLATE_ID: '	FB3iaqaVIIiJswmX67FPmPGuT1QcFlfvboSoIF5POmg',
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
